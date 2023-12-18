@@ -1,0 +1,375 @@
+emp_no,dept_no,from_date,to_date,reasons,turnover_type
+9,d007,1986-02-28,1986-10-01,"Return to school",Voluntary
+3,d004,1985-02-28,1986-03-07,"Career change",Voluntary
+7,d008,1985-10-06,1986-01-08,"Maternity leave- Did not return",Voluntary
+10,d007,1986-07-28,1986-12-20,Layoffs,Involuntary
+1,d003,1985-09-03,1986-11-27,"Poor compensation",Voluntary
+3,d003,1986-01-30,1986-10-23,"Career change",Voluntary
+7,d002,1985-08-08,1986-11-06,"Maternity leave- Did not return",Voluntary
+1,d001,1985-08-13,1986-08-04,"Poor compensation",Voluntary
+7,d004,1985-08-24,1986-01-08,"Maternity leave- Did not return",Voluntary
+3,d005,1986-08-21,1986-10-08,"Career change",Voluntary
+3,d007,1986-06-02,1986-11-18,"Career change",Voluntary
+9,d004,1985-06-15,1986-10-13,"Return to school",Voluntary
+3,d004,1985-03-13,1986-10-16,"Career change",Voluntary
+1,d007,1985-07-28,1986-10-18,"Poor compensation",Voluntary
+9,d001,1986-04-19,1986-11-22,"Return to school",Voluntary
+7,d001,1985-11-06,1986-03-05,"Maternity leave- Did not return",Voluntary
+4,d005,1985-05-16,1986-02-22,Unhappy,Voluntary
+2,d009,1986-04-05,1986-06-18,"Poor performance",Involuntary
+6,d005,1985-06-16,1986-11-05,"Attendance/Other misconduct",Involuntary
+3,d007,1985-03-23,1986-12-04,"Career change",Voluntary
+5,d005,1986-05-01,1986-09-25,Retiring,Voluntary
+2,d002,1985-03-10,1986-10-15,"Poor performance",Involuntary
+1,d007,1985-11-11,1986-01-26,"Poor compensation",Voluntary
+9,d005,1986-07-12,1986-12-20,"Return to school",Voluntary
+6,d005,1985-08-02,1986-05-07,"Attendance/Other misconduct",Involuntary
+6,d005,1985-09-01,1986-06-27,"Attendance/Other misconduct",Involuntary
+6,d005,1985-02-21,1986-03-06,"Attendance/Other misconduct",Involuntary
+8,d005,1985-05-18,1986-08-08,Relocation,Voluntary
+10,d007,1985-08-04,1986-10-30,Layoffs,Involuntary
+6,d005,1986-03-31,1986-04-13,"Attendance/Other misconduct",Involuntary
+10,d002,1986-03-19,1986-12-14,Layoffs,Involuntary
+9,d004,1985-06-11,1986-10-26,"Return to school",Voluntary
+5,d001,1986-07-25,1986-08-19,Retiring,Voluntary
+10,d005,1986-03-13,1986-10-22,Layoffs,Involuntary
+1,d007,1985-08-29,1986-10-29,"Poor compensation",Voluntary
+6,d009,1985-10-04,1986-01-20,"Attendance/Other misconduct",Involuntary
+1,d007,1986-06-03,1986-11-13,"Poor compensation",Voluntary
+9,d005,1985-08-03,1986-05-21,"Return to school",Voluntary
+4,d009,1985-05-03,1986-11-23,Unhappy,Voluntary
+8,d003,1986-02-22,1986-04-17,Relocation,Voluntary
+5,d007,1985-10-27,1986-10-05,Retiring,Voluntary
+10,d004,1986-11-01,1986-12-21,Layoffs,Involuntary
+6,d001,1986-04-10,1986-09-07,"Attendance/Other misconduct",Involuntary
+6,d004,1986-04-29,1986-05-03,"Attendance/Other misconduct",Involuntary
+6,d005,1985-07-20,1986-12-23,"Attendance/Other misconduct",Involuntary
+1,d009,1985-07-16,1986-08-14,"Poor compensation",Voluntary
+3,d003,1985-12-20,1986-11-14,"Career change",Voluntary
+3,d007,1985-05-05,1986-09-08,"Career change",Voluntary
+3,d001,1986-09-26,1986-10-17,"Career change",Voluntary
+1,d005,1986-03-14,1986-11-17,"Poor compensation",Voluntary
+6,d006,1985-05-27,1986-09-30,"Attendance/Other misconduct",Involuntary
+9,d004,1986-07-23,1986-09-21,"Return to school",Voluntary
+6,d005,1986-06-23,1986-06-24,"Attendance/Other misconduct",Involuntary
+5,d004,1986-05-12,1986-10-10,Retiring,Voluntary
+9,d009,1985-03-07,1986-07-28,"Return to school",Voluntary
+10,d005,1985-11-14,1986-01-07,Layoffs,Involuntary
+4,d005,1986-05-01,1986-09-05,Unhappy,Voluntary
+5,d007,1985-10-12,1986-01-18,Retiring,Voluntary
+6,d001,1985-11-17,1986-08-19,"Attendance/Other misconduct",Involuntary
+5,d001,1985-08-04,1986-09-22,Retiring,Voluntary
+8,d004,1986-05-15,1986-12-20,Relocation,Voluntary
+1,d002,1985-02-17,1986-12-04,"Poor compensation",Voluntary
+8,d007,1986-06-16,1986-08-12,Relocation,Voluntary
+5,d005,1986-01-18,1986-03-05,Retiring,Voluntary
+2,d002,1986-05-30,1986-08-12,"Poor performance",Involuntary
+5,d006,1985-08-04,1986-11-08,Retiring,Voluntary
+1,d003,1985-12-01,1986-05-02,"Poor compensation",Voluntary
+5,d003,1986-03-27,1986-05-16,Retiring,Voluntary
+7,d009,1986-04-19,1986-11-03,"Maternity leave- Did not return",Voluntary
+9,d005,1985-08-19,1986-07-27,"Return to school",Voluntary
+5,d004,1986-04-05,1986-05-04,Retiring,Voluntary
+5,d008,1986-11-11,1986-11-18,Retiring,Voluntary
+10,d005,1985-06-16,1986-01-02,Layoffs,Involuntary
+6,d008,1986-05-10,1986-07-21,"Attendance/Other misconduct",Involuntary
+2,d004,1986-01-28,1986-12-21,"Poor performance",Involuntary
+2,d005,1985-05-17,1986-12-19,"Poor performance",Involuntary
+4,d005,1985-11-15,1986-11-26,Unhappy,Voluntary
+10,d005,1986-11-08,1986-12-14,Layoffs,Involuntary
+7,d007,1986-10-04,1986-12-30,"Maternity leave- Did not return",Voluntary
+3,d005,1985-12-19,1986-12-17,"Career change",Voluntary
+1,d005,1985-02-12,1986-07-13,"Poor compensation",Voluntary
+6,d004,1986-08-14,1986-09-29,"Attendance/Other misconduct",Involuntary
+9,d004,1985-12-18,1986-09-05,"Return to school",Voluntary
+3,d007,1986-10-17,1986-12-30,"Career change",Voluntary
+8,d007,1986-03-15,1986-09-09,Relocation,Voluntary
+8,d005,1986-03-05,1986-12-25,Relocation,Voluntary
+4,d006,1985-02-15,1986-03-29,Unhappy,Voluntary
+3,d001,1986-03-30,1986-12-03,"Career change",Voluntary
+4,d006,1986-02-08,1986-06-04,Unhappy,Voluntary
+5,d004,1986-07-26,1986-12-31,Retiring,Voluntary
+8,d004,1986-08-15,1986-09-14,Relocation,Voluntary
+2,d005,1985-02-15,1986-01-20,"Poor performance",Involuntary
+10,d005,1985-02-05,1986-06-21,Layoffs,Involuntary
+8,d003,1985-10-27,1986-09-19,Relocation,Voluntary
+4,d002,1986-02-19,1986-04-10,Unhappy,Voluntary
+6,d004,1986-01-19,1986-05-07,"Attendance/Other misconduct",Involuntary
+9,d003,1985-09-12,1986-09-26,"Return to school",Voluntary
+1,d005,1985-04-06,1986-11-03,"Poor compensation",Voluntary
+1,d007,1985-11-02,1986-09-10,"Poor compensation",Voluntary
+9,d007,1986-04-26,1986-06-02,"Return to school",Voluntary
+6,d007,1986-09-07,1986-10-30,"Attendance/Other misconduct",Involuntary
+8,d007,1985-05-06,1986-12-28,Relocation,Voluntary
+8,d008,1985-09-27,1986-03-18,Relocation,Voluntary
+8,d005,1985-08-02,1986-10-26,Relocation,Voluntary
+6,d007,1985-02-05,1986-07-08,"Attendance/Other misconduct",Involuntary
+8,d005,1985-10-02,1986-08-14,Relocation,Voluntary
+3,d008,1985-02-27,1986-06-22,"Career change",Voluntary
+9,d005,1986-06-14,1986-12-08,"Return to school",Voluntary
+5,d005,1985-10-19,1986-07-20,Retiring,Voluntary
+2,d001,1985-11-24,1986-08-26,"Poor performance",Involuntary
+2,d005,1985-02-15,1986-12-01,"Poor performance",Involuntary
+10,d002,1985-05-22,1986-05-14,Layoffs,Involuntary
+5,d005,1985-03-12,1986-04-09,Retiring,Voluntary
+1,d004,1985-10-30,1986-03-17,"Poor compensation",Voluntary
+9,d004,1985-12-20,1986-03-08,"Return to school",Voluntary
+2,d001,1985-02-19,1986-10-10,"Poor performance",Involuntary
+5,d004,1986-03-01,1986-04-04,Retiring,Voluntary
+9,d005,1985-06-04,1986-05-04,"Return to school",Voluntary
+2,d005,1985-02-16,1986-07-19,"Poor performance",Involuntary
+3,d004,1985-11-13,1986-03-24,"Career change",Voluntary
+1,d005,1985-09-14,1986-04-17,"Poor compensation",Voluntary
+9,d005,1985-08-15,1986-06-03,"Return to school",Voluntary
+6,d004,1986-07-18,1986-10-13,"Attendance/Other misconduct",Involuntary
+6,d005,1985-05-30,1986-03-03,"Attendance/Other misconduct",Involuntary
+2,d005,1986-03-04,1986-08-07,"Poor performance",Involuntary
+9,d008,1985-10-24,1986-05-24,"Return to school",Voluntary
+4,d005,1986-09-05,1986-11-09,Unhappy,Voluntary
+10,d005,1986-06-29,1986-09-30,Layoffs,Involuntary
+5,d004,1986-07-02,1986-07-07,Retiring,Voluntary
+6,d002,1986-01-10,1986-06-18,"Attendance/Other misconduct",Involuntary
+7,d005,1986-02-03,1986-12-11,"Maternity leave- Did not return",Voluntary
+9,d004,1986-02-15,1986-08-17,"Return to school",Voluntary
+1,d007,1985-05-02,1986-06-10,"Poor compensation",Voluntary
+4,d008,1985-07-25,1986-10-27,Unhappy,Voluntary
+8,d005,1985-12-05,1986-07-29,Relocation,Voluntary
+6,d003,1985-06-14,1986-02-15,"Attendance/Other misconduct",Involuntary
+10,d001,1985-05-29,1986-09-27,Layoffs,Involuntary
+2,d005,1985-06-01,1986-09-17,"Poor performance",Involuntary
+9,d004,1986-01-23,1986-03-31,"Return to school",Voluntary
+5,d004,1985-08-04,1986-12-11,Retiring,Voluntary
+8,d007,1985-04-25,1986-07-08,Relocation,Voluntary
+4,d005,1985-03-22,1986-12-03,Unhappy,Voluntary
+1,d001,1986-04-21,1986-08-10,"Poor compensation",Voluntary
+1,d006,1985-02-14,1986-10-05,"Poor compensation",Voluntary
+5,d004,1986-09-26,1986-10-25,Retiring,Voluntary
+5,d005,1985-02-24,1986-05-27,Retiring,Voluntary
+4,d001,1986-04-12,1986-04-17,Unhappy,Voluntary
+3,d004,1986-02-01,1986-08-29,"Career change",Voluntary
+8,d007,1985-02-16,1986-06-29,Relocation,Voluntary
+4,d002,1986-04-23,1986-10-05,Unhappy,Voluntary
+4,d002,1986-02-08,1986-10-02,Unhappy,Voluntary
+2,d004,1986-02-28,1986-04-20,"Poor performance",Involuntary
+4,d005,1985-06-05,1986-09-07,Unhappy,Voluntary
+2,d004,1986-04-26,1986-11-24,"Poor performance",Involuntary
+3,d002,1985-11-03,1986-12-01,"Career change",Voluntary
+7,d003,1986-02-22,1986-12-26,"Maternity leave- Did not return",Voluntary
+3,d004,1986-05-06,1986-10-19,"Career change",Voluntary
+3,d006,1985-08-26,1986-09-04,"Career change",Voluntary
+3,d007,1985-07-12,1986-04-13,"Career change",Voluntary
+1,d009,1985-11-12,1986-02-28,"Poor compensation",Voluntary
+8,d004,1985-03-17,1986-01-06,Relocation,Voluntary
+3,d005,1986-03-26,1986-06-16,"Career change",Voluntary
+2,d008,1985-08-29,1986-10-31,"Poor performance",Involuntary
+3,d005,1985-08-27,1986-12-14,"Career change",Voluntary
+9,d005,1985-12-26,1986-01-11,"Return to school",Voluntary
+8,d005,1986-04-18,1986-07-06,Relocation,Voluntary
+3,d004,1986-01-17,1986-04-03,"Career change",Voluntary
+6,d005,1986-03-09,1986-05-16,"Attendance/Other misconduct",Involuntary
+8,d005,1985-09-20,1986-04-30,Relocation,Voluntary
+6,d005,1985-10-03,1986-08-09,"Attendance/Other misconduct",Involuntary
+5,d008,1986-05-28,1986-10-31,Retiring,Voluntary
+1,d004,1986-07-03,1986-08-14,"Poor compensation",Voluntary
+5,d009,1985-03-07,1986-12-19,Retiring,Voluntary
+8,d005,1985-10-03,1986-02-23,Relocation,Voluntary
+9,d002,1986-11-13,1986-12-23,"Return to school",Voluntary
+9,d008,1985-04-19,1986-01-21,"Return to school",Voluntary
+8,d001,1986-10-21,1986-12-22,Relocation,Voluntary
+5,d007,1985-03-17,1986-06-08,Retiring,Voluntary
+8,d003,1986-05-10,1986-07-11,Relocation,Voluntary
+4,d004,1986-08-06,1986-08-31,Unhappy,Voluntary
+1,d004,1986-11-28,1986-12-02,"Poor compensation",Voluntary
+6,d002,1985-08-29,1986-02-23,"Attendance/Other misconduct",Involuntary
+8,d001,1985-05-23,1986-05-14,Relocation,Voluntary
+1,d005,1986-02-12,1986-09-09,"Poor compensation",Voluntary
+10,d009,1985-10-04,1986-03-15,Layoffs,Involuntary
+7,d007,1986-01-03,1986-05-02,"Maternity leave- Did not return",Voluntary
+9,d009,1986-03-22,1986-12-25,"Return to school",Voluntary
+2,d005,1985-09-18,1986-01-12,"Poor performance",Involuntary
+6,d004,1985-04-21,1986-07-25,"Attendance/Other misconduct",Involuntary
+3,d007,1985-10-19,1986-02-12,"Career change",Voluntary
+6,d003,1985-04-14,1986-01-11,"Attendance/Other misconduct",Involuntary
+9,d004,1986-04-06,1986-06-14,"Return to school",Voluntary
+6,d005,1985-08-26,1986-01-26,"Attendance/Other misconduct",Involuntary
+2,d005,1985-12-23,1986-07-01,"Poor performance",Involuntary
+8,d005,1985-07-31,1986-01-28,Relocation,Voluntary
+8,d009,1986-01-04,1986-04-10,Relocation,Voluntary
+5,d007,1985-12-15,1986-01-02,Retiring,Voluntary
+10,d004,1986-11-20,1986-11-24,Layoffs,Involuntary
+8,d008,1985-05-04,1986-11-23,Relocation,Voluntary
+4,d005,1985-08-16,1986-08-13,Unhappy,Voluntary
+8,d004,1986-02-03,1986-11-03,Relocation,Voluntary
+1,d003,1986-01-23,1986-02-01,"Poor compensation",Voluntary
+8,d005,1985-11-05,1986-05-27,Relocation,Voluntary
+9,d004,1986-04-13,1986-12-03,"Return to school",Voluntary
+5,d006,1986-04-03,1986-04-17,Retiring,Voluntary
+6,d002,1985-06-10,1986-12-28,"Attendance/Other misconduct",Involuntary
+1,d005,1986-04-07,1986-04-23,"Poor compensation",Voluntary
+9,d004,1985-10-16,1986-06-14,"Return to school",Voluntary
+5,d008,1985-12-17,1986-01-21,Retiring,Voluntary
+8,d005,1985-09-04,1986-02-23,Relocation,Voluntary
+3,d009,1986-02-25,1986-04-24,"Career change",Voluntary
+5,d009,1986-05-25,1986-07-24,Retiring,Voluntary
+3,d004,1985-10-06,1986-03-03,"Career change",Voluntary
+7,d004,1985-07-25,1986-11-08,"Maternity leave- Did not return",Voluntary
+1,d004,1985-03-03,1986-06-04,"Poor compensation",Voluntary
+8,d005,1985-04-14,1986-06-14,Relocation,Voluntary
+5,d004,1986-04-21,1986-10-08,Retiring,Voluntary
+1,d007,1986-02-04,1986-02-28,"Poor compensation",Voluntary
+5,d004,1985-07-14,1986-02-07,Retiring,Voluntary
+3,d004,1986-06-23,1986-07-24,"Career change",Voluntary
+1,d004,1985-09-04,1986-02-04,"Poor compensation",Voluntary
+6,d004,1986-04-26,1986-06-11,"Attendance/Other misconduct",Involuntary
+7,d004,1985-08-18,1986-01-24,"Maternity leave- Did not return",Voluntary
+3,d006,1985-07-16,1986-12-28,"Career change",Voluntary
+3,d001,1985-06-15,1986-12-21,"Career change",Voluntary
+7,d004,1986-01-12,1986-02-27,"Maternity leave- Did not return",Voluntary
+2,d001,1985-11-14,1986-02-21,"Poor performance",Involuntary
+6,d005,1985-12-30,1986-06-20,"Attendance/Other misconduct",Involuntary
+7,d009,1985-04-03,1986-08-06,"Maternity leave- Did not return",Voluntary
+3,d007,1985-08-10,1986-11-06,"Career change",Voluntary
+7,d003,1986-05-09,1986-05-29,"Maternity leave- Did not return",Voluntary
+5,d009,1985-09-19,1986-04-15,Retiring,Voluntary
+8,d001,1985-11-22,1986-08-12,Relocation,Voluntary
+5,d007,1985-07-05,1986-06-04,Retiring,Voluntary
+2,d005,1985-03-18,1986-01-03,"Poor performance",Involuntary
+7,d005,1985-12-26,1986-01-26,"Maternity leave- Did not return",Voluntary
+7,d005,1985-06-07,1986-01-21,"Maternity leave- Did not return",Voluntary
+1,d005,1986-02-24,1986-03-18,"Poor compensation",Voluntary
+3,d007,1985-12-21,1986-02-21,"Career change",Voluntary
+6,d008,1985-02-25,1986-03-26,"Attendance/Other misconduct",Involuntary
+1,d002,1986-06-10,1986-09-03,"Poor compensation",Voluntary
+6,d005,1985-11-28,1986-01-09,"Attendance/Other misconduct",Involuntary
+5,d005,1986-02-07,1986-03-31,Retiring,Voluntary
+1,d001,1985-08-09,1986-07-23,"Poor compensation",Voluntary
+1,d009,1986-05-28,1986-07-31,"Poor compensation",Voluntary
+10,d004,1985-02-04,1986-10-20,Layoffs,Involuntary
+1,d007,1986-02-28,1986-05-07,"Poor compensation",Voluntary
+8,d007,1985-06-11,1986-05-26,Relocation,Voluntary
+6,d005,1985-11-15,1986-11-18,"Attendance/Other misconduct",Involuntary
+10,d005,1985-05-31,1986-04-19,Layoffs,Involuntary
+6,d005,1985-12-09,1986-08-16,"Attendance/Other misconduct",Involuntary
+6,d005,1985-12-21,1986-12-03,"Attendance/Other misconduct",Involuntary
+5,d001,1985-11-11,1986-10-31,Retiring,Voluntary
+3,d005,1985-05-08,1986-07-02,"Career change",Voluntary
+6,d009,1985-12-04,1986-12-15,"Attendance/Other misconduct",Involuntary
+9,d004,1986-08-14,1986-10-31,"Return to school",Voluntary
+10,d004,1985-02-19,1986-09-28,Layoffs,Involuntary
+1,d001,1986-06-15,1986-07-10,"Poor compensation",Voluntary
+8,d005,1985-05-08,1986-03-26,Relocation,Voluntary
+6,d005,1985-12-12,1986-04-21,"Attendance/Other misconduct",Involuntary
+6,d006,1985-05-02,1986-01-31,"Attendance/Other misconduct",Involuntary
+4,d004,1985-12-10,1986-08-21,Unhappy,Voluntary
+1,d004,1985-03-05,1986-08-12,"Poor compensation",Voluntary
+6,d005,1986-03-02,1986-11-02,"Attendance/Other misconduct",Involuntary
+3,d005,1986-02-13,1986-07-06,"Career change",Voluntary
+3,d001,1985-11-16,1986-03-30,"Career change",Voluntary
+2,d006,1985-09-04,1986-03-30,"Poor performance",Involuntary
+3,d003,1985-03-30,1986-03-06,"Career change",Voluntary
+9,d002,1985-11-07,1986-03-08,"Return to school",Voluntary
+8,d005,1985-10-07,1986-07-30,Relocation,Voluntary
+5,d004,1986-01-17,1986-11-16,Retiring,Voluntary
+9,d004,1986-02-06,1986-08-14,"Return to school",Voluntary
+5,d005,1985-12-11,1986-12-11,Retiring,Voluntary
+8,d005,1986-04-14,1986-11-11,Relocation,Voluntary
+10,d007,1986-04-04,1986-11-08,Layoffs,Involuntary
+10,d009,1986-07-16,1986-10-11,Layoffs,Involuntary
+10,d005,1986-08-22,1986-10-06,Layoffs,Involuntary
+6,d008,1985-12-14,1986-02-15,"Attendance/Other misconduct",Involuntary
+2,d008,1986-02-09,1986-03-03,"Poor performance",Involuntary
+3,d005,1985-05-28,1986-07-26,"Career change",Voluntary
+2,d003,1985-06-26,1986-11-26,"Poor performance",Involuntary
+5,d004,1986-02-26,1986-08-29,Retiring,Voluntary
+4,d003,1986-06-19,1986-10-14,Unhappy,Voluntary
+6,d005,1986-02-05,1986-02-16,"Attendance/Other misconduct",Involuntary
+3,d001,1985-03-16,1986-06-24,"Career change",Voluntary
+4,d006,1985-06-19,1986-02-14,Unhappy,Voluntary
+8,d005,1985-12-06,1986-09-08,Relocation,Voluntary
+9,d005,1985-11-17,1986-11-21,"Return to school",Voluntary
+5,d004,1985-03-01,1986-11-11,Retiring,Voluntary
+7,d007,1985-07-23,1986-01-09,"Maternity leave- Did not return",Voluntary
+3,d005,1986-07-22,1986-08-27,"Career change",Voluntary
+8,d005,1985-10-22,1986-06-22,Relocation,Voluntary
+4,d002,1985-12-21,1986-05-26,Unhappy,Voluntary
+2,d004,1986-04-18,1986-05-22,"Poor performance",Involuntary
+2,d004,1985-11-28,1986-05-27,"Poor performance",Involuntary
+7,d004,1985-07-07,1986-10-01,"Maternity leave- Did not return",Voluntary
+1,d003,1986-07-29,1986-09-01,"Poor compensation",Voluntary
+10,d007,1985-07-05,1986-01-07,Layoffs,Involuntary
+3,d007,1985-05-09,1986-03-17,"Career change",Voluntary
+1,d004,1985-12-06,1986-09-09,"Poor compensation",Voluntary
+6,d007,1985-07-04,1986-02-17,"Attendance/Other misconduct",Involuntary
+5,d004,1986-05-22,1986-11-18,Retiring,Voluntary
+7,d004,1986-06-19,1986-08-06,"Maternity leave- Did not return",Voluntary
+4,d006,1986-06-11,1986-09-05,Unhappy,Voluntary
+7,d005,1986-04-17,1986-07-04,"Maternity leave- Did not return",Voluntary
+4,d001,1985-02-04,1986-11-24,Unhappy,Voluntary
+5,d005,1985-06-14,1986-01-08,Retiring,Voluntary
+3,d007,1986-05-06,1986-11-19,"Career change",Voluntary
+5,d007,1985-07-09,1986-01-11,Retiring,Voluntary
+5,d005,1985-07-02,1986-08-25,Retiring,Voluntary
+4,d004,1985-09-06,1986-02-25,Unhappy,Voluntary
+7,d004,1985-05-10,1986-09-20,"Maternity leave- Did not return",Voluntary
+4,d005,1986-04-20,1986-08-08,Unhappy,Voluntary
+7,d009,1986-03-17,1986-08-11,"Maternity leave- Did not return",Voluntary
+8,d005,1985-06-28,1986-05-18,Relocation,Voluntary
+8,d009,1985-04-06,1986-12-26,Relocation,Voluntary
+5,d004,1985-02-22,1986-10-15,Retiring,Voluntary
+3,d005,1985-10-11,1986-07-24,"Career change",Voluntary
+5,d004,1985-08-25,1986-09-28,Retiring,Voluntary
+9,d007,1985-10-19,1986-08-17,"Return to school",Voluntary
+8,d001,1986-06-19,1986-11-21,Relocation,Voluntary
+10,d004,1986-01-21,1986-12-23,Layoffs,Involuntary
+2,d004,1985-08-05,1986-09-03,"Poor performance",Involuntary
+10,d005,1986-05-07,1986-07-16,Layoffs,Involuntary
+5,d007,1985-02-22,1986-11-12,Retiring,Voluntary
+2,d007,1985-08-05,1986-10-27,"Poor performance",Involuntary
+5,d004,1985-02-12,1986-08-24,Retiring,Voluntary
+6,d001,1986-02-11,1986-03-11,"Attendance/Other misconduct",Involuntary
+9,d004,1986-01-31,1986-03-05,"Return to school",Voluntary
+8,d007,1986-01-19,1986-03-10,Relocation,Voluntary
+9,d005,1986-08-02,1986-10-22,"Return to school",Voluntary
+4,d009,1986-01-16,1986-10-10,Unhappy,Voluntary
+2,d007,1985-10-21,1986-12-06,"Poor performance",Involuntary
+5,d004,1985-04-05,1986-10-16,Retiring,Voluntary
+3,d002,1985-08-01,1986-07-04,"Career change",Voluntary
+8,d008,1985-02-22,1986-09-01,Relocation,Voluntary
+2,d006,1986-04-03,1986-12-03,"Poor performance",Involuntary
+7,d007,1986-01-09,1986-06-22,"Maternity leave- Did not return",Voluntary
+2,d004,1986-03-22,1986-12-03,"Poor performance",Involuntary
+5,d007,1985-03-27,1986-12-05,Retiring,Voluntary
+5,d006,1986-05-20,1986-09-25,Retiring,Voluntary
+2,d007,1985-02-23,1986-08-26,"Poor performance",Involuntary
+9,d009,1986-03-02,1986-05-20,"Return to school",Voluntary
+6,d005,1985-07-06,1986-04-29,"Attendance/Other misconduct",Involuntary
+6,d008,1985-06-01,1986-08-19,"Attendance/Other misconduct",Involuntary
+5,d003,1985-03-22,1986-07-11,Retiring,Voluntary
+9,d009,1985-10-30,1986-07-22,"Return to school",Voluntary
+4,d007,1985-05-29,1986-12-14,Unhappy,Voluntary
+4,d004,1985-05-30,1986-03-20,Unhappy,Voluntary
+8,d005,1985-12-09,1986-06-06,Relocation,Voluntary
+6,d008,1986-01-24,1986-07-14,"Attendance/Other misconduct",Involuntary
+4,d009,1986-09-19,1986-09-28,Unhappy,Voluntary
+9,d005,1985-06-23,1986-11-16,"Return to school",Voluntary
+9,d007,1985-07-30,1986-04-03,"Return to school",Voluntary
+2,d007,1985-03-01,1986-09-17,"Poor performance",Involuntary
+6,d004,1985-12-25,1986-01-29,"Attendance/Other misconduct",Involuntary
+4,d007,1985-03-01,1986-04-07,Unhappy,Voluntary
+7,d001,1985-12-11,1986-05-28,"Maternity leave- Did not return",Voluntary
+1,d004,1985-09-29,1986-12-05,"Poor compensation",Voluntary
+5,d004,1986-03-09,1986-06-25,Retiring,Voluntary
+1,d003,1985-02-28,1986-12-10,"Poor compensation",Voluntary
+10,d009,1985-09-03,1986-03-26,Layoffs,Involuntary
+7,d005,1985-08-18,1986-10-06,"Maternity leave- Did not return",Voluntary
+7,d003,1986-02-27,1986-09-19,"Maternity leave- Did not return",Voluntary
+3,d005,1986-01-30,1986-10-23,"Career change",Voluntary
+9,d007,1985-05-30,1986-01-06,"Return to school",Voluntary
+6,d005,1985-11-26,1986-11-24,"Attendance/Other misconduct",Involuntary
+1,d008,1985-12-24,1986-08-16,"Poor compensation",Voluntary
+5,d005,1986-03-15,1986-12-18,Retiring,Voluntary
+10,d007,1985-11-12,1986-10-02,Layoffs,Involuntary
+5,d002,1985-02-27,1986-05-29,Retiring,Voluntary
+1,d005,1985-11-20,1986-07-18,"Poor compensation",Voluntary
+4,d004,1985-10-04,1986-12-03,Unhappy,Voluntary
+10,d006,1985-11-15,1986-07-18,Layoffs,Involuntary
