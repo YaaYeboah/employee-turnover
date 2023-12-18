@@ -1,9 +1,8 @@
-# Turnover Rate
 
 [Employee Turnover Dashboard on Tableau Public](https://public.tableau.com/app/profile/yaa.yeboah/viz/EmployeeTurnoverDashboard_17028715143540/EmployeeTurnoverDashbord?publish=yes)
-
 ![Employee Turnover Dashboard!](./employee-turnover-dashboard.png "Employee Turnover Dashboard")
 
+# Turnover Rate
 
 Turnover rate is a metric that measures the rate at which employees leave a company and are replaced by new hires.
 
